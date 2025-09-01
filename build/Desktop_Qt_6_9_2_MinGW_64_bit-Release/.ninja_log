@@ -1,0 +1,9 @@
+# ninja log v6
+6	990	7783852464635135	KeyboardColor_autogen/timestamp	ec9ad3e5ea193e65
+6	990	7783852464635135	KeyboardColor_autogen/mocs_compilation.cpp	ec9ad3e5ea193e65
+6	990	7783852464635135	C:/Programmation/Qt/KeyboardColor/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/KeyboardColor_autogen/timestamp	ec9ad3e5ea193e65
+6	990	7783852464635135	C:/Programmation/Qt/KeyboardColor/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/KeyboardColor_autogen/mocs_compilation.cpp	ec9ad3e5ea193e65
+1000	3150	7783852466252075	CMakeFiles/KeyboardColor.dir/KeyboardColor_autogen/mocs_compilation.cpp.obj	d44387de9cba0fda
+1006	3235	7783852466322124	CMakeFiles/KeyboardColor.dir/main.cpp.obj	6f94b9225d15c44c
+1011	4529	7783852466372027	CMakeFiles/KeyboardColor.dir/keyboardcoulour.cpp.obj	691626bb47f74a8b
+4530	4914	7783852501553423	KeyboardColor.exe	e0c60ba73efa00d2
